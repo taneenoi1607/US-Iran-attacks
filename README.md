@@ -62,7 +62,21 @@
       { lat: 32.7, lng: 51.6, name: "Yellowcake Production Plant", type: "coalition", date: "2026-03-27", desc: "US/Israel strike on yellowcake facility." },
       { lat: 32.65, lng: 51.65, name: "Esfahan Steel Company", type: "coalition", date: "2026-03-27", desc: "Airstrike hit one of Iran’s largest steelmakers." },
       { lat: 32.55, lng: 51.5, name: "Mobarakeh Steel Complex", type: "coalition", date: "2026-03-27", desc: "Coalition strike targeted major steel facility." },
-      { lat: 23.5, lng: 45.0, name: "Saudi Base (unspecified)", type: "iranian", date: "2026-03-27", desc: "Iran launched missiles at a Saudi base." }
+      { lat: 23.5, lng: 45.0, name: "Saudi Base (unspecified)", type: "iranian", date: "2026-03-27", desc: "Iran launched missiles at a Saudi base." },
+      { lat: 35.6826, lng: 51.4215, name: "Tehran missile / air-defense sites", type: "coalition", date: "2026-02-28", desc: "Initial US/Israel wave of over 100 strikes on Iranian military sites." },
+      { lat: 36.1667, lng: 51.5667, name: "Mashhad missile storage (Khuzestan‑type zone)", type: "coalition", date: "2026-03-01", desc: "Coalition strike on missile / storage infrastructure in southwest Iran." },
+      { lat: 32.66, lng: 51.68, name: "Isfahan region missile/radar sites", type: "coalition", date: "2026-03-04", desc: "Follow‑up strikes to degrade Iranian long‑range capabilities." },
+      { lat: 32.0, lng: 53.5, name: "Natanz nuclear‑related site", type: "coalition", date: "2026-03-06", desc: "Strike on sensitive nuclear‑related infrastructure." },
+      { lat: 32.5, lng: 56.5, name: "Qom missile complex", type: "coalition", date: "2026-03-10", desc: "Coalition strike on ballistic missile infrastructure." },
+      { lat: 32.0853, lng: 34.7818, name: "Tel Aviv, Israel (missile/drone attack)", type: "iranian", date: "2026-03-02", desc: "Iranian missile/drone barrage on central Israel; many intercepted, some damage." },
+      { lat: 32.7957, lng: 35.0059, name: "Haifa, Israel (urban area)", type: "iranian", date: "2026-03-03", desc: "Missile impact in northern Israel; damage to buildings and infrastructure." },
+      { lat: 36.2, lng: 43.8, name: "US‑linked base, northern Iraq (Erbil‑type)", type: "iranian", date: "2026-03-15", desc: "Drone / missile strike on US‑linked installation in Iraq." },
+      { lat: 34.5, lng: 40.5, name: "US‑linked base, eastern Syria", type: "iranian", date: "2026-03-18", desc: "Pro‑Iran drone/missile strike near US‑linked position." },
+      { lat: 27.1, lng: 50.0, name: "Ras Tanura oil refinery, Saudi Arabia", type: "iranian", date: "2026-03-02", desc: "Iranian missile/drone strike on one of Gulf’s largest refineries." },
+      { lat: 29.3, lng: 49.8, name: "Mina Al‑Ahmadi refinery, Kuwait", type: "iranian", date: "2026-03-04", desc: "Large fire and black smoke at Kuwait’s main export terminal." },
+      { lat: 29.0, lng: 48.5, name: "Mina Abdullah refinery, Kuwait", type: "iranian", date: "2026-03-04", desc: "Second major Kuwaiti refinery hit." },
+      { lat: 24.5, lng: 54.0, name: "UAE gas fields (Al‑Hasan‑type)", type: "iranian", date: "2026-03-04", desc: "Missile strike on gas infrastructure; shutdowns reported." },
+      { lat: 32.8, lng: 34.9, name: "Haifa refinery, Israel", type: "iranian", date: "2026-03-04", desc: "Missile attack on Israel’s second‑largest refinery."
     ];
 
     // Sort chronologically
