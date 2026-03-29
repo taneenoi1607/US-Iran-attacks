@@ -76,7 +76,7 @@
       { lat: 29.3, lng: 49.8, name: "Mina Al‑Ahmadi refinery, Kuwait", type: "iranian", date: "2026-03-04", desc: "Large fire and black smoke at Kuwait’s main export terminal." },
       { lat: 29.0, lng: 48.5, name: "Mina Abdullah refinery, Kuwait", type: "iranian", date: "2026-03-04", desc: "Second major Kuwaiti refinery hit." },
       { lat: 24.5, lng: 54.0, name: "UAE gas fields (Al‑Hasan‑type)", type: "iranian", date: "2026-03-04", desc: "Missile strike on gas infrastructure; shutdowns reported." },
-      { lat: 32.8, lng: 34.9, name: "Haifa refinery, Israel", type: "iranian", date: "2026-03-04", desc: "Missile attack on Israel’s second‑largest refinery."
+      { lat: 32.8, lng: 34.9, name: "Haifa refinery, Israel", type: "iranian", date: "2026-03-04", desc: "Missile attack on Israel’s second‑largest refinery." },
     ];
 
     // Sort chronologically
